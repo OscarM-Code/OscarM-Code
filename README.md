@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 ### Hello ! :upside_down_face:
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCpUS1cy3X-YZw2508a-KUsw?style=social)
-![Banner](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCpUS1cy3X-YZw2508a-KUsw?style=social)
+![Banner](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 <!--
 **OscarM-Code/OscarM-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
